@@ -1,4 +1,4 @@
-# music_player
+# Flutter Music Player
 
 A Flutter App to Search and Play Music from [iTunes affiliate API](https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api)
 
