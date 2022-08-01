@@ -2,9 +2,7 @@
 
 A Flutter App to Search and Play Music from [iTunes affiliate API](https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api)
 
-![Example 1](Screenshot_20220801_213135.png "Example 1")
-
-![Example 2](Screenshot_20220801_213200.png "Example 2")
+<img src="Screenshot_20220801_213135.png" width="300"> <img src="Screenshot_20220801_213200.png" width="300">
 
 ## Supported features
 - Search song preview by the artist
